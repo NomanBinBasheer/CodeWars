@@ -15,3 +15,6 @@ class SmallestIntegerFinder {
       return args[0]
     }
   }
+
+
+  return mpg * fuelLeft == distanceToPump ? true : false
