@@ -14,5 +14,5 @@ function twoSort(s) {
     
     let addedStars  = firstVal.split('').join('***')
      
-     return addedStars
+    return addedStars
    }
