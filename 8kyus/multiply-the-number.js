@@ -19,3 +19,10 @@ function multiply(number){
     return str * Math.pow(5, str.length - 1)
   }
 }
+
+
+// ORRRRRRRRR
+
+function multiply(number) {
+  return number * Math.pow(5, Math.abs(number).toString().length);
+}
