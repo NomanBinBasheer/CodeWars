@@ -20,3 +20,12 @@ function multiplyAll(arr1) {
       return newArr
     }  
   }
+
+
+//   ORRRRRRRRRRRRRR
+
+function multiplyAll(arr) {
+    return function(n) {
+      return arr.map(x => x * n);
+    }
+  }
