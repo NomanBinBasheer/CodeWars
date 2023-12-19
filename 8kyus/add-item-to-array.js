@@ -9,4 +9,4 @@ var websites = []; */
 
 //  My Solution
 
-websites.push('codewars')
+websites.push('codewars');
